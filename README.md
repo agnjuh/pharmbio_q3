@@ -1,6 +1,6 @@
 # Fractional Factorial Design in R
 
-This repository contains an R-based solution developed as part of a coursework assignment for the postgraduate Pharmaceutical Bioinformatics course at Uppsala University.
+This repository contains an R-based solution developed as part of a coursework assignment (Statistical Experimental Design) for the postgraduate Pharmaceutical Bioinformatics course at Uppsala University.
 
 ## Aim
 
