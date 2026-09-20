@@ -1,7 +1,7 @@
 # 2^(15-11) fractional factorial design
 # 15 factors, two levels, 16 experiments
 
-# Generate four independent columns forming a 2^4 factorial basis
+# Generate the four basic factor columns of a 2^4 full factorial design
 base <- expand.grid(
   A = c(-1, 1),
   B = c(-1, 1),
